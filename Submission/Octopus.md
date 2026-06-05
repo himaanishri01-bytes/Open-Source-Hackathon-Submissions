@@ -1,16 +1,16 @@
-Open Source Hackathon 2026 Project Submission
+# Open Source Hackathon 2026 Project Submission
 
-Participant Details
+## Participant Details
 
 Full Name: Himaanishri
-
 GitHub Username: himaanishri01-bytes
-
 Team Name: Individual / Octopus Team
+College/University: G. Narayanamma Institute of Technology and Science
 
-College/University: G. Narayanamma Institute of Tachnology and Science
+---
 
-Project Details
+## Project Details
+
 Project Title: Project OCTOPUS: AI-Powered Autonomous Water Pollution Source Tracking System
 
 Project Description: An autonomous, self-powered marine hardware ecosystem engineered for real-time edge computing, chemical anomaly vectoring, and spatiotemporal tracking of unmonitored industrial contaminants. It addresses the tracking limitations of traditional testing by using a multi-parametric sensor array to track concentrations and dynamically route hardware directly to the point of origin.
@@ -23,7 +23,10 @@ Live Demo Link: https://octopus-nine-blue.vercel.app/
 
 Presentation / Demo Video Link: https://github.com/himaanishri01-bytes/Octopus/blob/main/OCTOPUS.pptx
 
-Open Source Readiness
+---
+
+## Open Source Readiness
+
 [x] My project is public on GitHub
 
 [x] My repository has a proper README.md
@@ -36,29 +39,34 @@ Open Source Readiness
 
 [x] My project is original and built/updated during the hackathon period
 
-Memori Labs Sponsor Task
+---
+
+## Memori Labs Sponsor Task
+
 Please complete these before submitting:
 
 [x] I have starred the Memori Labs GitHub repository
-
 https://github.com/MemoriLabs/Memori
 
 [x] I have followed Memori Labs on LinkedIn
-
 https://www.linkedin.com/company/memorilabs/
 
 [x] I have followed Memori Labs on X
-
 https://x.com/memorilab
 
 [x] I have checked Memori Labs social links
-
 https://linktr.ee/memorilabs
 
-ID Card Verification
+---
+
+## ID Card Verification
+
 [x] I have generated my ID card from https://oshack.xyz
 
 [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
-Additional Notes
+---
+
+## Additional Notes
+
 The interactive presentation slide-deck detailing our hardware topology and edge engine routing algorithm is available directly in the root folder of our project repository (OCTOPUS.pptx).
