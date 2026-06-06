@@ -2,7 +2,7 @@
 
 ## Participant Details
 
-Full Name: Himaanishri
+Full Name: Himaani Shri
 
 GitHub Username: himaanishri01-bytes
 
@@ -14,9 +14,10 @@ College/University: G. Narayanamma Institute of Technology and Science
 
 ## Project Details
 
-Project Title: Project OCTOPUS: AI-Powered Autonomous Water Pollution Source Tracking System
+Project Title: OCTOPUS: AI-Powered Autonomous Water Pollution Source Tracking System
 
-Project Description: An autonomous, self-powered marine hardware ecosystem engineered for real-time edge computing, chemical anomaly vectoring, and spatiotemporal tracking of unmonitored industrial contaminants. It addresses the tracking limitations of traditional testing by using a multi-parametric sensor array to track concentrations and dynamically route hardware directly to the point of origin.
+Project Description: 
+An autonomous, self-powered marine hardware ecosystem engineered for real-time edge computing, chemical anomaly vectoring, and spatiotemporal tracking of unmonitored industrial contaminants. It addresses the tracking limitations of traditional testing by using a multi-parametric sensor array to track concentrations and dynamically route hardware directly to the point of origin.
 
 Tech Stack Used: React.js, Vite, Tailwind CSS, PostCSS, JavaScript (ES6+ Modules)
 
