@@ -3,8 +3,11 @@
 ## Participant Details
 
 Full Name: Himaanishri
+
 GitHub Username: himaanishri01-bytes
-Team Name: Individual / Octopus Team
+
+Team Name: Individual / Octopus
+
 College/University: G. Narayanamma Institute of Technology and Science
 
 ---
